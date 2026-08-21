@@ -1,7 +1,6 @@
 #include <iostream> 
-
-int main() 
-{
+int main() {
+    
     // Header section with separators
     std::cout << "========================\n";
     std::cout << "         PROFILE        \n";
